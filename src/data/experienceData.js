@@ -4,7 +4,7 @@ const experienceData = [
     jobtitle: "Frontend Developer",
     companyname: "MLMCart technologies",
     worktype: "Full-time",
-    duration: "March 2022 - current",
+    duration: "July 2021 - Present",
     location: "Kolhapur india",
     responsibility: [
       `Developed and implemented captivating user interfaces with React.js, driving a 25% boost in user engagement.`,

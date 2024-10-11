@@ -3,7 +3,7 @@ import Resume from "../../assets/documents/Ketan_Chopade_Frontend_Resume.pdf";
 const DownloadResume = () => {
   return (
     <section>
-      <a className="download-btn" href={Resume} download="Ketan-Chopade">
+      <a className="download-btn" href={Resume} download="Ketan-Chopade-Frontend-Resume">
         <img
           src={DownloadIcon}
           alt="Resume download button"
